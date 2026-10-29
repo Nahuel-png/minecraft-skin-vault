@@ -283,7 +283,7 @@ any stored ban record.
 
 > 🛟 **Still stuck?** Open an issue and include your OS and the steps you tried — the guide above solves 9 out of 10 problems.
 
-*minecraft-skin-vault · Updated 2026-10-28 · Shared under the MIT License*
+*minecraft-skin-vault · Updated 2026-10-29 · Shared under the MIT License*
 
 
-Updated 2026-10-28.
+Updated 2026-10-29.
